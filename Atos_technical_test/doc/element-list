@@ -1,0 +1,5 @@
+com.barousse.project
+com.barousse.project.controller
+com.barousse.project.domain
+com.barousse.project.repository
+com.barousse.project.service

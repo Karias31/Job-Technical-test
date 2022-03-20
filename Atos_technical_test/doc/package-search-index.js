@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.barousse.project"},{"l":"com.barousse.project.controller"},{"l":"com.barousse.project.domain"},{"l":"com.barousse.project.repository"},{"l":"com.barousse.project.service"}]
